@@ -1,0 +1,45 @@
+body {
+  background-color: #e4f9f5;
+  margin: 0;
+}
+
+img {
+  height: 30%;
+  width: auto;
+}
+
+hr {
+  height: 1px;
+  border-style: dotted none none none;
+  border-color: silver;
+  width: 5%;
+  border-top-width: 6px;
+  border-top-color: #30e3ca;
+}
+
+h1 {
+  color: #11999e;
+}
+
+h3 {
+  color: #11999e;
+}
+
+.contact {
+  height: 100px;
+  background-color: #40514e;
+  margin: 0;
+
+
+}
+
+.link {
+  margin: 0;
+}
+.me{
+  color: white;
+  text-decoration: none;
+  font-size: 15;
+  text-shadow: 1px 1px 10px;
+
+}
